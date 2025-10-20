@@ -84,10 +84,12 @@ When I’m not coding, you’ll probably find me at the gym, cooking for friends
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9b092c&height=60&section=footer" alt="Waving footer capsule" style="max-width: 80%; height: auto;">
+  <img src="pics/ConnectWMe.png" width="auto" height="auto" style="display: block; margin: 0 auto;">
+
 </p>
 
+
    <div align="center">
-<img src="pics/ConnectWMe.png" width="auto" height="auto" style="display: block; margin: 0 auto;">
 
 
 
