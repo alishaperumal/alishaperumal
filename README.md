@@ -85,11 +85,12 @@ When I’m not coding, you’ll probably find me at the gym, cooking for friends
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=9b092c&height=60&section=footer" alt="Waving footer capsule" style="max-width: 80%; height: auto;">
 </p>
-     
+
+   <div align="center">
 <img src="pics/ConnectWMe.png" width="auto" height="auto" style="display: block; margin: 0 auto;">
 
 
-<div align="center">
+
   <a href="https://www.linkedin.com/in/alisha-perumal-6b31bb356/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%239b092c.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
