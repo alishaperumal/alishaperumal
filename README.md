@@ -16,7 +16,7 @@
 
 
 <p align="center">
-<h3><b style="font-size: 16px;">UI Engineer, Business Analyst, Integration Engineer</b></h3>
+<h3><b style="font-size: 16px;">Full-Stack Developer, UI Engineer, Integration Engineer,Business Analyst  </b></h3>
 </p><br>
      I'm a final-year Computer Science student with a deep passion for computers and a curiosity about all things virtual — from immersive digital worlds to the complex systems that power them. I’m dedicated to honing my skills and evolving as a software developer and engineer, constantly exploring how technology can be used to solve real-world problems.
 
